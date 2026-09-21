@@ -3,5 +3,5 @@
 
 int main() {
     // Выводим приветствие
-    std::cout << "Hello " << std::endl;
+    std::cout << "Hello " << '\n';
 }
